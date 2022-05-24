@@ -2,8 +2,7 @@
 
 #### My name is jihye heo.
 Wow~
-힘들당 ㅠ
-<!--
+힘들당 ㅠ FORCED는 수정해도 안되남<!--
 **jihyeheo/jihyeheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
