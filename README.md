@@ -1,5 +1,8 @@
 ### Hi there 👋
 
 #### My name is jihye heo.
-Wow~
+
+
+- I am a graduate student in the Department of Information Statistics at Gyeongsang National University.
+- 
 
