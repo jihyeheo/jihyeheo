@@ -2,7 +2,8 @@
 #### 현재 경상국립대 정보통계학과 석사과정 4학기를 하고 있습니다 :)
 **Blog.** [https://blog.naver.com/soodagnu](https://blog.naver.com/soodagnu)<br>
 **GitHub.** [https://github.com/jihyeheo](https://github.com/jihyeheo)<br>
-**Dacon.** [https://dacon.io/myprofile/409575/home](https://dacon.io/myprofile/409575/home)
+**Dacon.** [https://dacon.io/myprofile/409575/home](https://dacon.io/myprofile/409575/home)<br>
+**포트폴리오.** https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469
 
 - **Education** <br>
 Gyeongsang National University Department of Mathematics/Information Statistics<br>
