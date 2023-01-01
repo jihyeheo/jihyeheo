@@ -32,7 +32,7 @@ Image, Medical Image et al
 
 <hr>
 <br>
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hu6122)<img src="http://mazandi.herokuapp.com/api?handle=hu6122&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=hu6122&theme=warm"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jihyeheo&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeheo&layout=compact&theme=dracula)](https://github.com/jihyeheo)
 
