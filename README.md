@@ -15,8 +15,9 @@ Gyeongsang National University Graduate school of Information Statistics Big Dat
 
 - **Awards**<br>
 데이터청년캠퍼스 빅리더 아카데미 표창장<br>
-고내 빅데이터 아이디어 공모전 장려상<br>
+교내 빅데이터 아이디어 공모전 장려상<br>
 데이터과학회 장려상<br>
+2022 데이터 크리에이터 캠프 최우수성 <br>
 
 - **Certificate**<br>
 ADSP<br>
