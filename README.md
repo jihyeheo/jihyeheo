@@ -1,5 +1,5 @@
-#### 안녕하세요! ✨ Data Scientist & AI 개발자를 꿈꾸는 25살 허지혜입니다.
-#### 현재 경상국립대 정보통계학과 석사과정 4학기를 하고 있습니다 :)
+#### 안녕하세요! ✨ Data Scientist & AI 개발자 꿈을 이룬(?) 26살 허지혜입니다.
+#### 현재 충남대학교 및 충남대병원 소속 연구원으로 의료영상 인공지능 개발을 하고 있습니다 :)
 **Blog.** [https://blog.naver.com/soodagnu](https://blog.naver.com/soodagnu)<br>
 **GitHub.** [https://github.com/jihyeheo](https://github.com/jihyeheo)<br>
 **Dacon.** [https://dacon.io/myprofile/409575/home](https://dacon.io/myprofile/409575/home)<br>
