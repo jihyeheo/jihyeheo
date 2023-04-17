@@ -10,9 +10,6 @@
 
 ## ✨ Portfolio ✨
 <a href="https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/></a>
-<a href="https://blog.naver.com/soodagnu/"><img src="https://img.shields.io/badge/Blog-44A833?style=flat&logo=aerlingus&logoColor=white"/></a>
-<a href="https://github.com/jihyeheo](https://github.com/jihyeheo"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://dacon.io/myprofile/409575/home"><img src="https://img.shields.io/badge/Dacon-A100FF?style=flat&logo=d&logoColor=white"/></a>
 
 
 ## 🎉 Career & Paper 🎉
@@ -41,6 +38,9 @@
 <a href="mailto:hu612213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hu612213@gmail.com"/></a>
 <a href="https://www.instagram.com/imag_wisdom"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/imag_wisdom"/></a>
 <a href="https://velog.io/@imag_wisdom"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@imag_wisdom"/></a>
+<a href="https://blog.naver.com/soodagnu/"><img src="https://img.shields.io/badge/Blog-44A833?style=flat&logo=aerlingus&logoColor=white"/></a>
+<a href="https://github.com/jihyeheo](https://github.com/jihyeheo"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://dacon.io/myprofile/409575/home"><img src="https://img.shields.io/badge/Dacon-A100FF?style=flat&logo=d&logoColor=white"/></a>
 
 ##
 
