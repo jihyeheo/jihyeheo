@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JIHYE%20HEO&fontSize=90&animation=blinking)<br>
+## AI for medical image
 Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging as a researcher** at Chungnam National University and Chungnam National University Hospital :)
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 
+
+<img src="https://img.shields.io/badge/blog-44A833?style=flat&logo=aerlingus&logoColor=white&link=https://blog.naver.com/soodagnu/">
 **Blog.** [https://blog.naver.com/soodagnu](https://blog.naver.com/soodagnu)<br>
 **GitHub.** [https://github.com/jihyeheo](https://github.com/jihyeheo)<br>
 **Dacon.** [https://dacon.io/myprofile/409575/home](https://dacon.io/myprofile/409575/home)<br>
