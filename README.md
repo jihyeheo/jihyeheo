@@ -4,11 +4,11 @@ Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging
 
 
 
-<img src="https://img.shields.io/badge/blog-44A833?style=flat&logo=aerlingus&logoColor=white&link=https://blog.naver.com/soodagnu/">
-**Blog.** [https://blog.naver.com/soodagnu](https://blog.naver.com/soodagnu)<br>
-**GitHub.** [https://github.com/jihyeheo](https://github.com/jihyeheo)<br>
-**Dacon.** [https://dacon.io/myprofile/409575/home](https://dacon.io/myprofile/409575/home)<br>
-**포트폴리오.** https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469
+<a href="https://blog.naver.com/soodagnu/"><img src="https://img.shields.io/badge/Blog-44A833?style=flat&logo=aerlingus&logoColor=white"/>
+<a href="https://github.com/jihyeheo](https://github.com/jihyeheo"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
+<a href="https://dacon.io/myprofile/409575/home"><img src="https://img.shields.io/badge/Dacon-A100FF?style=flat&logo=d&logoColor=white"/>
+<a href="https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/>
+
 
 - **Education** <br>
 Gyeongsang National University Department of Mathematics/Information Statistics<br>
