@@ -22,12 +22,6 @@
 
 
 
-|Num|Year|Author|Title|
-|---|---|---|---|
-|1|2021|lead author|Classification of COVID-19 patients using transfer learning-based ensemble deep learning|
-|2|2022|co-author|Noise Removal Using Convolutional Dual-Decoder AutoEncoder Model in Medical Images|
-|3|2023|co-author|Efficient CT image noise removal using deformable CAE model|
-|4|2023|co-author|Development of a Metabolic Syndrome Classification and Prediction Model for Koreans using Deep learning|
   
   
 
