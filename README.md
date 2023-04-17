@@ -18,11 +18,16 @@ Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging
 |🥼|2023.02~|CNU(Chungnam National University)&CNUH(Hospital) Researcher|medical image AI Developer|
 |🎓|2021.03~2023.02|GNU(Gyeongsang National University)|Information Statistics Big data|
 |🎓|2017.03~2021.02|GNU(Gyeongsang National University)|Mathmatics|
-- **Education** <br>
-Gyeongsang National University Department of Mathematics/Information Statistics<br>
-Gyeongsang National University Graduate school of Information Statistics Big Data Major
 
-- **Paper** <br>
+## Paper
+
+|Num|Year|Author|Title|Society|
+|---|---|---|---|---|
+|1|2021|허지혜 외 3명(1저자)|전이학습기반 앙상블 딥러닝을 이용한 COVID-19 환자 분류|한국데이터과학회지|
+|2|2022|성언승 외 3명(2저자)|의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거|한국데이터과학회지|
+|3|2023|성언승 외 3명(3저자)|deformable CAE 모형을 이용한 효율적인 CT영상 잡음제거|한국컴퓨터정보학회논문지|
+|4|2023|김혜림 외 3명(2저자)|Development of a Metabolic Syndrome Classification and Prediction Model for Koreans using Deep learning|??|
+  
 허지혜,이수빈,양원혁,임동훈, "전이학습기반 앙상블 딥러닝을 이용한 COVID-19 환자 분류" <br>
 성언승,허지혜,한성현,임동훈 "의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거"
 성언승,한성현,허지혜,임동훈 "deformable CAE 모형을 이용한 효율적인 CT영상 잡음제거"
