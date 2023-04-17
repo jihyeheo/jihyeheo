@@ -12,7 +12,7 @@ Gyeongsang National University Graduate school of Information Statistics Big Dat
 - **Paper** <br>
 허지혜,이수빈,양원혁,임동훈, "전이학습기반 앙상블 딥러닝을 이용한 COVID-19 환자 분류" <br>
 성언승,허지혜,한성현,임동훈 "의료영상에서 Convolutional Dual-Decoder AutoEncoder 모형을 이용한 잡음제거"
-성언승,한성현,허지혜,임동훈 "의료영상에서 deformable autoencoder 모형을 이용한 잡음제거"
+성언승,한성현,허지혜,임동훈 "deformable CAE 모형을 이용한 효율적인 CT영상 잡음제거"
 김혜림,허지혜,김윤아,임동훈 "Development of a Metabolic Syndrome Classification and Prediction Model for Koreans using Deep learning"
 
 - **Awards**<br>
