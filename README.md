@@ -15,9 +15,9 @@ Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging
 
 |Type|Date|소속|Major|
 |---|---|---|---|
-|🥼|2023.02~(Current)|Chungnam National University and Chungnam National University Hospital|medical image AI Developer|
-|🎓|2021.03~2023.02|Gyeongsang National University|Information Statistics Big data|
-|🎓|2017.03~2021.02|Gyeongsang National University|Mathmatics|
+|🥼|2023.02~|CNU(Chungnam National University)&CNUH(Hospital) Researcher|medical image AI Developer|
+|🎓|2021.03~2023.02|GNU(Gyeongsang National University)|Information Statistics Big data|
+|🎓|2017.03~2021.02|GNU(Gyeongsang National University)|Mathmatics|
 - **Education** <br>
 Gyeongsang National University Department of Mathematics/Information Statistics<br>
 Gyeongsang National University Graduate school of Information Statistics Big Data Major
