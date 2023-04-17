@@ -4,7 +4,7 @@
 ##  AI developer & Data scientist  
 
 
-- Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging as a researcher** at Chungnam National University and Chungnam National University Hospital :)
+- Hello! ✨ I'm **cute girl** Ji Hye Heo ~.
 - I interest Deep Learning, Super Resolution, Object Detection, Denoising, Computer Vision, Medical Image et al.
 - Python R sas spss Deep Learning Computer Vision Pytorch keras ImageDenoising SuperResolution Analysis
 
