@@ -21,7 +21,7 @@
 |---|---|---|---|
 |🥼|2023.02~|CNU(Chungnam National University)&CNUH(Hospital) Researcher|medical image AI Developer|
 |🎓|2021.03~2023.02|GNU(Gyeongsang National University)|Information Statistics Big data|
-|🎓|2017.03~2021.02|GNU(Gyeongsang National University)|Mathmatics|
+|🎓|2017.03~2021.02|GNU(Gyeongsang National University)|Mathematics|
 
 
 
