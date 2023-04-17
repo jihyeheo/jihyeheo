@@ -15,7 +15,7 @@
 <a href="https://dacon.io/myprofile/409575/home"><img src="https://img.shields.io/badge/Dacon-A100FF?style=flat&logo=d&logoColor=white"/></a>
 
 
-## Career & Paper
+## 🎉 Career & Paper 🎉
 
 |Type|Date|소속|Major|
 |---|---|---|---|
@@ -37,7 +37,7 @@
 
 
 
-## Social 
+## 💕 Social 💕
 <a href="mailto:hu612213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hu612213@gmail.com"/></a>
 <a href="https://www.instagram.com/imag_wisdom"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/imag_wisdom"/></a>
 <a href="https://velog.io/@imag_wisdom"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@imag_wisdom"/></a>
