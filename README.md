@@ -1,18 +1,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JIHYE%20HEO&fontSize=90&animation=blinking)<br>
 
-## 💻 AI developer & Data scientist 💻 
+##  AI developer & Data scientist  
 
 
 - Hello! ✨ I am Heo Ji-hye, who is currently developing **AI for medical imaging as a researcher** at Chungnam National University and Chungnam National University Hospital :)
 - I interest Deep Learning, Super Resolution, Object Detection, Denoising, Computer Vision, Medical Image et al.
 - Python R sas spss Deep Learning Computer Vision Pytorch keras ImageDenoising SuperResolution Analysis
 
-## ✨ Portfolio ✨
+##  Portfolio 
 <a href="https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/></a>
 
 
-## 🎉 Career & Paper 🎉
+##  Career & Paper 
 
 |Type|Date|소속|Major|
 |---|---|---|---|
@@ -34,7 +34,7 @@
 
 
 
-## 💕 Social 💕
+##  Social 
 <a href="mailto:hu612213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:hu612213@gmail.com"/></a>
 <a href="https://www.instagram.com/imag_wisdom"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/imag_wisdom"/></a>
 <a href="https://velog.io/@imag_wisdom"><img src="http://img.shields.io/badge/-Velog-20c997?style=flat&logo=v&logoColor=white&link=https://velog.io/@imag_wisdom"/></a>
