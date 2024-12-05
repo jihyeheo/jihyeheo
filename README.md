@@ -9,7 +9,7 @@
 - Python R sas spss Deep Learning Computer Vision Pytorch keras ImageDenoising SuperResolution Analysis
 
 ##  Portfolio 
-<a href="https://candy-mallow-f72.notion.site/JiHyeHeo_CV-04dc1a6e12b64503bf4a023f93085469"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/></a>
+<a href="https://www.notion.so/504c19b976e74a5b93ec710d5fa1192b?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/></a>
 
 
 ##  Career
