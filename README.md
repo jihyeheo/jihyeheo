@@ -5,7 +5,7 @@
 
 
 - Hello! ✨ I'm **cute girl** Ji Hye Heo ~.
-- I interest Deep Learning, Super Resolution, Object Detection, Denoising, Computer Vision, Medical Image et al.
+- I'm interested in Deep Learning, Super Resolution, Object Detection, Denoising, Computer Vision and Medical Image!
 - Python R sas spss Deep Learning Computer Vision Pytorch keras ImageDenoising SuperResolution Analysis
 
 ##  Portfolio 
