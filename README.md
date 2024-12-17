@@ -4,9 +4,9 @@
 ##  AI developer & Data scientist  
 
 
-- Hello! ✨ I'm **cute girl** Ji Hye Heo ~.
+- Hello! ✨ I'm a **cute girl** Ji Hye Heo ~.
 - I'm interested in Deep Learning, Super Resolution, Object Detection, Denoising, Computer Vision and Medical Image analysis!
-- Python R sas spss Deep Learning Computer Vision Pytorch keras ImageDenoising SuperResolution Analysis
+- Python R Sas Spss Deep Learning Computer Vision Pytorch Keras Tensorflow Pytorch ImageDenoising SuperResolution Analysis
 
 ##  Portfolio 
 <a href="https://www.notion.so/504c19b976e74a5b93ec710d5fa1192b?pvs=4"><img src="https://img.shields.io/badge/Portfolio-FA6423?style=flat&logo=protocolsdotio&logoColor=white"/></a>
